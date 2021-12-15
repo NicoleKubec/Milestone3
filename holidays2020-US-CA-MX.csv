@@ -1,0 +1,230 @@
+name,date,observed,public,country,uuid,weekday.date.name,weekday.date.numeric,weekday.observed.name,weekday.observed.numeric
+New Year's Day,2020-01-01,2020-01-01,True,MX,cee56502-97a2-461b-a491-e82c145f6358,Wednesday,3,Wednesday,3
+New Year's Day,2020-01-01,2020-01-01,True,US,82f78b8a-019e-479e-a19f-99040275f9bf,Wednesday,3,Wednesday,3
+Seventh Day of Kwanzaa,2020-01-01,2020-01-01,False,US,0e766ff3-0d31-40e1-85e1-49ed61ab006d,Wednesday,3,Wednesday,3
+New Year's Day,2020-01-01,2020-01-01,True,CA,1f9bc6e3-b71c-44cb-a62d-6453db68ec50,Wednesday,3,Wednesday,3
+Epiphany,2020-01-06,2020-01-06,False,MX,e68fbdb6-2bac-4947-bb9f-93d5d0ca52ce,Monday,1,Monday,1
+Epiphany,2020-01-06,2020-01-06,False,US,61d8d9ba-8ce1-4e64-9b1a-f40d30f74a57,Monday,1,Monday,1
+Orthodox Christmas Eve,2020-01-06,2020-01-06,False,US,bc893ac4-be85-4af6-abad-687e923bbcec,Monday,1,Monday,1
+Orthodox Christmas Day,2020-01-07,2020-01-07,False,US,8ed029b2-c39d-46aa-b15a-4c67540380e4,Tuesday,2,Tuesday,2
+Stephen Foster Memorial Day,2020-01-13,2020-01-13,False,US,099def58-4545-4468-bdbb-d370c7726189,Monday,1,Monday,1
+Orthodox New Year's Day,2020-01-14,2020-01-14,False,US,4f7a5c31-18fa-4ffc-a47c-b889576ca002,Tuesday,2,Tuesday,2
+Raoul Wallenberg Day,2020-01-17,2020-01-17,False,CA,a71ab50f-669c-4e12-b39a-b4b041951114,Friday,5,Friday,5
+"Martin Luther King, Jr. Day",2020-01-20,2020-01-20,True,US,638d6949-d68e-438a-9335-5ef07e221db5,Monday,1,Monday,1
+Chinese New Year's Day,2020-01-25,2020-01-25,False,US,cbf02d47-8eb1-4d05-acf9-b92c926990a4,Saturday,6,Saturday,6
+National Freedom Day,2020-02-01,2020-02-01,False,US,ea82454e-442c-438e-a23a-fe1466ce478d,Saturday,6,Saturday,6
+Groundhog Day,2020-02-02,2020-02-02,False,US,addc2151-d9f1-407e-b63d-dc240a91a1db,Sunday,7,Sunday,7
+Super Bowl Sunday,2020-02-02,2020-02-02,False,US,8947cc36-dd49-4101-8db3-6b8100d93688,Sunday,7,Sunday,7
+Groundhog Day,2020-02-02,2020-02-02,False,CA,b2fbe511-cc72-4c48-befc-df6f98a82724,Sunday,7,Sunday,7
+Constitution Day,2020-02-03,2020-02-03,True,MX,36c72dc9-1fb1-4e7f-b72b-0570e40f2cf1,Monday,1,Monday,1
+National Wear Red Day,2020-02-07,2020-02-07,False,US,a251947e-d82c-4636-b5da-6f1e1da4633e,Friday,5,Friday,5
+Valentine's Day,2020-02-14,2020-02-14,False,MX,b6470899-abd9-41af-a970-11d1062bb477,Friday,5,Friday,5
+Valentine's Day,2020-02-14,2020-02-14,False,US,351c593b-6b5c-4012-871c-292d5c3ccd63,Friday,5,Friday,5
+Valentine's Day,2020-02-14,2020-02-14,False,CA,dd339144-c87d-40fa-82c4-b353011c181a,Friday,5,Friday,5
+National Flag of Canada Day,2020-02-15,2020-02-15,False,CA,c9e01539-fa00-435c-bd44-bbd58e30da53,Saturday,6,Saturday,6
+George Washington's Birthday,2020-02-17,2020-02-17,True,US,0f1f387c-fad3-4f69-9275-2dcf2201b4a8,Monday,1,Monday,1
+Mexican Army Day,2020-02-19,2020-02-19,False,MX,ac44ffa1-538c-4a1d-a7fc-28fbcf1e74b1,Wednesday,3,Wednesday,3
+Flag Day,2020-02-24,2020-02-24,False,MX,8dea6408-d13e-4000-88c9-e323c7388a5b,Monday,1,Monday,1
+NHL Trade Deadline,2020-02-24,2020-02-24,False,US,30d881f9-a0a6-4bac-a2f6-dcef5dea15cc,Monday,1,Monday,1
+NHL Trade Deadline,2020-02-24,2020-02-24,False,CA,8572d92b-a85b-4e91-9c51-501d4806ee10,Monday,1,Monday,1
+Shrove Tuesday,2020-02-25,2020-02-25,False,US,aa1f5486-6950-40fe-b07b-21f49df216ba,Tuesday,2,Tuesday,2
+Ash Wednesday,2020-02-26,2020-02-26,False,US,24ff9f76-054f-41e3-8b9c-f9be07d88b05,Wednesday,3,Wednesday,3
+Saint David's Day,2020-03-01,2020-03-01,False,US,1d95a43e-5e8d-48e3-8ece-a1bdcdc73465,Sunday,7,Sunday,7
+Read Across America Day,2020-03-02,2020-03-02,False,US,b041f0c9-64dd-4130-858b-c660279b9327,Monday,1,Monday,1
+Employee Appreciation Day,2020-03-06,2020-03-06,False,US,6e59c06f-172a-4337-9ada-e81bc21ddc07,Friday,5,Friday,5
+Start of Daylight Saving Time,2020-03-08,2020-03-08,False,US,e9affe10-2e7b-4413-9c90-37448c09d52d,Sunday,7,Sunday,7
+Commonwealth Day,2020-03-09,2020-03-09,False,CA,7454d151-e926-4891-9667-e7d9261a974a,Monday,1,Monday,1
+Benito Juárez's birthday,2020-03-16,2020-03-16,True,MX,9d341c04-40e8-455e-a524-7eb3480f30d7,Monday,1,Monday,1
+Saint Patrick's Day,2020-03-17,2020-03-17,False,US,63968111-75a0-4fef-aa69-82600044f5a7,Tuesday,2,Tuesday,2
+Saint Patrick's Day,2020-03-17,2020-03-17,False,CA,9b5f630b-dd13-458d-ba97-2f0c948102ef,Tuesday,2,Tuesday,2
+Anniversary of the Oil Expropriation,2020-03-18,2020-03-18,False,MX,fa91ae3c-d8c7-4db1-8440-aebd079da2d4,Wednesday,3,Wednesday,3
+March Equinox,2020-03-20,2020-03-20,False,MX,35a2a580-216b-4e4d-999b-0165ac9c621f,Friday,5,Friday,5
+March Equinox,2020-03-20,2020-03-20,False,US,dc00ad00-ee2b-4fdf-875e-076e8f341039,Friday,5,Friday,5
+March Equinox,2020-03-20,2020-03-20,False,CA,042b7ebe-a866-45c8-a37e-cbd3032843f8,Friday,5,Friday,5
+National Vietnam War Veterans Day,2020-03-29,2020-03-29,False,US,1074fc22-732f-4d0d-9abb-3c001bde5832,Sunday,7,Sunday,7
+April Fools' Day,2020-04-01,2020-04-01,False,US,da1504da-616b-4bc7-83c1-b608b1d6cb0f,Wednesday,3,Wednesday,3
+April Fools' Day,2020-04-01,2020-04-01,False,CA,8851ab26-1e8c-4da0-a68e-5306811e8e8b,Wednesday,3,Wednesday,3
+Palm Sunday,2020-04-05,2020-04-05,False,MX,77e0ed88-ac74-423e-8c5b-ed676b69febc,Sunday,7,Sunday,7
+Palm Sunday,2020-04-05,2020-04-05,False,US,0dda11d3-1748-4569-84b7-13e65d2ec168,Sunday,7,Sunday,7
+National Tartan Day,2020-04-06,2020-04-06,False,US,db9a11ef-849f-42a1-922c-32f462d29af7,Monday,1,Monday,1
+Tartan Day,2020-04-06,2020-04-06,False,CA,5823665c-9c31-429c-85ae-21207367780b,Monday,1,Monday,1
+Maundy Thursday,2020-04-09,2020-04-09,True,MX,d681d95f-dba7-4905-a7e4-426c1abedd58,Thursday,4,Thursday,4
+Maundy Thursday,2020-04-09,2020-04-09,False,US,ddbab737-c022-45e4-a2da-2e19e3a21f95,Thursday,4,Thursday,4
+Vimy Ridge Day,2020-04-09,2020-04-09,False,CA,3329d6d3-f243-4121-b036-4113347a18ff,Thursday,4,Thursday,4
+Good Friday,2020-04-10,2020-04-10,True,MX,14e72b49-ae67-4be1-8e2f-6af4ae0ae7b2,Friday,5,Friday,5
+Good Friday,2020-04-10,2020-04-10,False,US,07a597fc-cf4a-4627-8ba2-a89f159c2db4,Friday,5,Friday,5
+Good Friday,2020-04-10,2020-04-10,True,CA,8636ec66-c5b6-48f0-af66-dd8fd03f7926,Friday,5,Friday,5
+Holy Saturday,2020-04-11,2020-04-11,False,MX,787a6724-e4f5-419b-9f1a-bf13764531b8,Saturday,6,Saturday,6
+Holy Saturday,2020-04-11,2020-04-11,False,US,475d15c9-aed3-4f0e-ba7d-2274e4e78ff8,Saturday,6,Saturday,6
+Easter,2020-04-12,2020-04-12,False,MX,648285cf-f63b-496b-b142-712c138caf9f,Sunday,7,Sunday,7
+Easter,2020-04-12,2020-04-12,False,US,d2b577c3-7d65-48b3-8010-92122e7fe159,Sunday,7,Sunday,7
+Easter,2020-04-12,2020-04-12,False,CA,7e53f69c-4302-4681-8d31-df13d366489f,Sunday,7,Sunday,7
+Easter Monday,2020-04-13,2020-04-13,False,US,40e2377e-e182-4293-a344-3a3b4614a1f3,Monday,1,Monday,1
+Thomas Jefferson's Birthday,2020-04-13,2020-04-13,False,US,99653051-d08c-4686-aa98-7dc01a03c43b,Monday,1,Monday,1
+Orthodox Good Friday,2020-04-17,2020-04-17,False,US,bc848b20-fbbe-4aca-938b-5e9ef524a380,Friday,5,Friday,5
+Orthodox Holy Saturday,2020-04-18,2020-04-18,False,US,8954886c-9561-44b7-bf4a-5760c9aed5af,Saturday,6,Saturday,6
+Orthodox Easter,2020-04-19,2020-04-19,False,US,e77736aa-b56e-400c-a6d2-c0267b02bb48,Sunday,7,Sunday,7
+Boston Marathon,2020-04-20,2020-04-20,False,US,61619da3-6c18-45cc-a6bd-ccb3220bff89,Monday,1,Monday,1
+Orthodox Easter Monday,2020-04-20,2020-04-20,False,US,942660b0-b7a9-4ad2-8268-2c18d3c5e0af,Monday,1,Monday,1
+Heroic Defense of Veracruz,2020-04-21,2020-04-21,False,MX,24453692-f92e-433e-be64-aae51e1599b6,Tuesday,2,Tuesday,2
+Administrative Professionals Day,2020-04-22,2020-04-22,False,US,6cc474bb-a4ce-4f5e-a6c7-1850b7ec6fe2,Wednesday,3,Wednesday,3
+Earth Day,2020-04-22,2020-04-22,False,US,20928c66-80ed-454c-b24a-7eab2a498ab0,Wednesday,3,Wednesday,3
+Earth Day,2020-04-22,2020-04-22,False,CA,54e55a96-bfa4-4237-ad84-21b636f5dca1,Wednesday,3,Wednesday,3
+Take our Daughters and Sons to Work Day,2020-04-23,2020-04-23,False,US,52fca050-edb1-4c42-bd79-c4f6a6b8b013,Thursday,4,Thursday,4
+National Arbor Day,2020-04-24,2020-04-24,False,US,4f920c39-058d-436b-afb9-007da1869479,Friday,5,Friday,5
+Children's Day,2020-04-30,2020-04-30,False,MX,6e8fc5af-a0f8-4805-ba0d-ac6a67475fa4,Thursday,4,Thursday,4
+Labor Day,2020-05-01,2020-05-01,True,MX,804493b7-263e-4d45-8a0d-88cf7b82fd70,Friday,5,Friday,5
+Law Day,2020-05-01,2020-05-01,False,US,d576a970-f9b2-47a0-92b8-567cdeb9fbd0,Friday,5,Friday,5
+Loyalty Day,2020-05-01,2020-05-01,False,US,44f59429-6d4e-4680-a89e-d8ad384d8d86,Friday,5,Friday,5
+National Explosive Ordnance Disposal (EOD) Day,2020-05-02,2020-05-02,False,US,cc72771a-a2cf-4a61-99b1-77c5dc1b88bb,Saturday,6,Saturday,6
+Star Wars Day,2020-05-04,2020-05-04,False,US,60fcc507-8c51-4c4b-af81-b343dbaf830b,Monday,1,Monday,1
+Fifth of May,2020-05-05,2020-05-05,False,MX,dfdb4c25-71f7-4fb7-9188-2523247a68fe,Tuesday,2,Tuesday,2
+Cinco de Mayo,2020-05-05,2020-05-05,False,US,67914768-61c8-4ece-8758-184e9e6e313a,Tuesday,2,Tuesday,2
+National Nurses Day,2020-05-06,2020-05-06,False,US,6306843b-cf58-40a4-a3e7-640bd5359a4f,Wednesday,3,Wednesday,3
+National Day of Prayer,2020-05-07,2020-05-07,False,US,702351b8-3c6d-4d16-b2f5-739557bb8445,Thursday,4,Thursday,4
+Miguel Hidalgo's birthday,2020-05-08,2020-05-08,False,MX,493b1db8-d612-4941-ab97-1bf74bf499b0,Friday,5,Friday,5
+Military Spouse Appreciation Day,2020-05-08,2020-05-08,False,US,9b5162c3-89e1-4b57-8fad-5f8d39c8c996,Friday,5,Friday,5
+Victory in Europe Day,2020-05-08,2020-05-08,False,US,64c1c0d0-9a0e-4b78-baf2-bc9082bf8d69,Friday,5,Friday,5
+Mother's Day,2020-05-10,2020-05-10,False,MX,96fc8f09-ac5f-42ae-ad3c-6b0bcc438c49,Sunday,7,Sunday,7
+Mother's Day,2020-05-10,2020-05-10,False,US,0746cfc7-6432-4dcc-bc75-dfef56c41086,Sunday,7,Sunday,7
+Mother's Day,2020-05-10,2020-05-10,False,CA,9d732176-11c3-420f-b5cd-e0e8b956140c,Sunday,7,Sunday,7
+Teachers' Day,2020-05-15,2020-05-15,False,MX,c0527b2a-99cf-4257-8153-511cd0fcb4f6,Friday,5,Friday,5
+National Defense Transportation Day,2020-05-15,2020-05-15,False,US,b2c22d06-c339-4255-bcb1-f8d746d8e49e,Friday,5,Friday,5
+Peace Officers Memorial Day,2020-05-15,2020-05-15,False,US,c9729d73-aab7-4b87-8d15-6e7f87c5efa4,Friday,5,Friday,5
+Armed Forces Day,2020-05-16,2020-05-16,False,US,f10bc2f7-a4f1-48b5-858d-0674175307c5,Saturday,6,Saturday,6
+Preakness Stakes,2020-05-16,2020-05-16,False,US,983dcbc0-1d1e-4db4-8b35-b872ca4c99af,Saturday,6,Saturday,6
+Victoria Day,2020-05-18,2020-05-18,True,CA,5e620994-eb69-42e8-82dd-367c47d2dbaa,Monday,1,Monday,1
+Emergency Medical Services for Children Day,2020-05-20,2020-05-20,False,US,07138790-e01d-4cee-9c75-4f55b23040af,Wednesday,3,Wednesday,3
+Feast of the Ascension of Jesus Christ,2020-05-21,2020-05-21,False,US,b750d05c-5375-41a3-a4d4-a9b5379ea45e,Thursday,4,Thursday,4
+National Maritime Day,2020-05-22,2020-05-22,False,US,8ff36ad7-0040-48ba-8f1b-9d9b47516f35,Friday,5,Friday,5
+Students' Day,2020-05-23,2020-05-23,False,MX,3b7e7e4c-cdd7-43e8-95cc-ff9547d5e1fb,Saturday,6,Saturday,6
+Memorial Day,2020-05-25,2020-05-25,True,US,f7e566e9-ac02-4f8c-895d-9d673e8fe956,Monday,1,Monday,1
+National Missing Children's Day,2020-05-25,2020-05-25,False,US,df25d3e5-7251-4ae1-a13a-e177cdf6006c,Monday,1,Monday,1
+Pentecost,2020-05-31,2020-05-31,False,US,f5b6704c-fb59-41b8-a32d-75f35d12e0d8,Sunday,7,Sunday,7
+National Maritime Day,2020-06-01,2020-06-01,False,MX,07b5edb8-cbd4-40f8-b8d6-94dfe2861608,Monday,1,Monday,1
+Pentecost Monday,2020-06-01,2020-06-01,False,US,65a74656-7e64-4dcd-ba21-2b67efeed08c,Monday,1,Monday,1
+D-Day,2020-06-06,2020-06-06,False,US,c51e8fed-e8ef-4542-aa22-b05794a60841,Saturday,6,Saturday,6
+Trinity Sunday,2020-06-07,2020-06-07,False,US,9a0590dc-7128-4544-9386-1e5022deb094,Sunday,7,Sunday,7
+Feast of Corpus Christi,2020-06-11,2020-06-11,False,US,5944d385-839e-4d6c-b333-bd233c20eaa4,Thursday,4,Thursday,4
+Army Birthday,2020-06-14,2020-06-14,False,US,1b79f2b5-ed62-43f9-94a6-a0d012657b6b,Sunday,7,Sunday,7
+Flag Day,2020-06-14,2020-06-14,False,US,e587a63e-acbd-4541-99a2-d599ce29789c,Sunday,7,Sunday,7
+Juneteenth,2020-06-19,2020-06-19,False,US,ca466dd9-f820-4b4e-a22d-1b89f9be4a1d,Friday,5,Friday,5
+Loyalist Day,2020-06-19,2020-06-19,False,CA,8366aed9-c737-4b22-920d-e5f5f379467d,Friday,5,Friday,5
+June Solstice,2020-06-20,2020-06-20,False,MX,fa39ca80-4372-422e-b9ac-c61a9c9d70a1,Saturday,6,Saturday,6
+American Eagle Day,2020-06-20,2020-06-20,False,US,e9f15f59-63a2-4a89-8f40-707f079deccf,Saturday,6,Saturday,6
+June Solstice,2020-06-20,2020-06-20,False,US,ded6dbcb-17db-4c31-9923-cde05c8bdc2f,Saturday,6,Saturday,6
+June Solstice,2020-06-20,2020-06-20,False,CA,d8395d7e-e72a-44ce-8cb7-1174248b8d55,Saturday,6,Saturday,6
+Father's Day,2020-06-21,2020-06-21,False,MX,959197e6-0310-4b8d-8cfe-aa29f6fcecb9,Sunday,7,Sunday,7
+Father's Day,2020-06-21,2020-06-21,False,US,a33a96e6-ce3a-49fb-9951-add49254157b,Sunday,7,Sunday,7
+Father's Day,2020-06-21,2020-06-21,False,CA,f91f4b0b-2f73-43a9-8d48-5805fc9d9615,Sunday,7,Sunday,7
+Helen Keller Day,2020-06-27,2020-06-27,False,US,c0f88df8-d2ce-4452-99bb-cff6306b7735,Saturday,6,Saturday,6
+Canadian Multiculturalism Day,2020-06-27,2020-06-27,False,CA,3b382dcb-4c83-44a6-8236-f8e32c6cede8,Saturday,6,Saturday,6
+Canada Day,2020-07-01,2020-07-01,True,CA,780dedc5-4d4b-4474-8ac6-9b09c03c398f,Wednesday,3,Wednesday,3
+Independence Day,2020-07-04,2020-07-03,True,US,88268759-9b90-468c-804f-b729b8418e7c,Saturday,6,Friday,5
+Bastille Day,2020-07-14,2020-07-14,False,US,a5270d7c-92dc-45aa-964e-b9ba75b6cb5b,Tuesday,2,Tuesday,2
+Tax Day,2020-07-15,2020-07-15,False,US,f5472593-c55d-405e-9e23-407fa5ffc6dc,Wednesday,3,Wednesday,3
+Parents' Day,2020-07-26,2020-07-26,False,US,9fd99e29-2a59-407d-a4ce-c2f4d6ffc66d,Sunday,7,Sunday,7
+National Korean War Veterans Armistice Day,2020-07-27,2020-07-27,False,US,a4456b84-d2ad-4b7f-8693-1400f90c59dd,Monday,1,Monday,1
+Coast Guard Birthday,2020-08-04,2020-08-04,False,US,0360dfe6-6475-4bb5-998d-38fe81ff7f1b,Tuesday,2,Tuesday,2
+Purple Heart Day,2020-08-07,2020-08-07,False,US,26bbe3d3-6e48-4bdc-8e9f-6d6b3e632cda,Friday,5,Friday,5
+National Peacekeepers' Day,2020-08-09,2020-08-09,False,CA,4401f07a-1465-4dab-9cd9-046e6b971d32,Sunday,7,Sunday,7
+Assumption of Mary,2020-08-15,2020-08-15,False,US,83a32d4b-1341-4ce1-89b5-ac2330a6c9d4,Saturday,6,Saturday,6
+National Aviation Day,2020-08-19,2020-08-19,False,US,b197860b-3938-4dfd-beb4-27a1a419090b,Wednesday,3,Wednesday,3
+Senior Citizens Day,2020-08-21,2020-08-21,False,US,6cadafe4-9fd0-4403-8bb8-e5df6babd477,Friday,5,Friday,5
+Women's Equality Day,2020-08-26,2020-08-26,False,US,bf4cc0b5-8b1b-458b-b46e-60ae45e487dd,Wednesday,3,Wednesday,3
+Kentucky Oaks,2020-09-04,2020-09-04,False,US,b7e086ee-7a97-445e-add0-37bea518e72f,Friday,5,Friday,5
+Kentucky Derby,2020-09-05,2020-09-05,False,US,f050fb17-d1b7-425a-a590-0c34c59523cd,Saturday,6,Saturday,6
+Labor Day,2020-09-07,2020-09-07,True,US,8f052b64-922c-420f-b793-4bec237580fa,Monday,1,Monday,1
+Labor Day,2020-09-07,2020-09-07,True,CA,4ee5fd06-ee75-43f6-97ce-843de9bafb68,Monday,1,Monday,1
+Patriot Day,2020-09-11,2020-09-11,False,US,e7367619-1893-4f2d-b685-e7bb7905151a,Friday,5,Friday,5
+Carl Garner Federal Lands Cleanup Day,2020-09-12,2020-09-12,False,US,450ba59a-e9fd-4e96-9044-1c0348dd77ba,Saturday,6,Saturday,6
+"Anniversary of the ""Boy Heroes"" or ""Heroic Cadets""",2020-09-13,2020-09-13,False,MX,a78f13a1-f8f2-484f-81f6-ed4f5e841d2a,Sunday,7,Sunday,7
+National Grandparent's Day,2020-09-13,2020-09-13,False,US,964c017c-ccf8-413a-b760-a10518c53a4d,Sunday,7,Sunday,7
+National Grandparents' Day,2020-09-13,2020-09-13,False,CA,cb58c5b0-1d36-4553-b054-157740dc89ae,Sunday,7,Sunday,7
+Cry of Dolores,2020-09-15,2020-09-15,False,MX,5501bf44-3167-49b5-80f8-34f47717da67,Tuesday,2,Tuesday,2
+Independence Day,2020-09-16,2020-09-16,True,MX,77497b72-1546-48d1-8c1c-b2914baf0f8d,Wednesday,3,Wednesday,3
+Citizenship Day,2020-09-17,2020-09-17,False,US,117a88f1-e5f6-449a-a037-f86654e1f52c,Thursday,4,Thursday,4
+Air Force Birthday,2020-09-18,2020-09-18,False,US,d66643f6-0eb7-4ba4-83e3-153f9b6cb141,Friday,5,Friday,5
+National POW/MIA Recognition Day,2020-09-18,2020-09-18,False,US,4762d8e6-b23c-4cda-b5c6-2187c1a8c9be,Friday,5,Friday,5
+National CleanUp Day,2020-09-19,2020-09-19,False,US,eb0fdbc9-1af5-4921-8397-60ea34d07a8c,Saturday,6,Saturday,6
+Rosh Hashanah,2020-09-19,2020-09-19,False,US,90d8a1d6-462c-4ce4-9d59-02bb44fdccd7,Saturday,6,Saturday,6
+September Equinox,2020-09-22,2020-09-22,False,MX,ec503832-a7d3-4423-b14d-8b53d9fa4fd2,Tuesday,2,Tuesday,2
+September Equinox,2020-09-22,2020-09-22,False,US,bb7516f0-22d6-4b11-86f1-d5dd44591502,Tuesday,2,Tuesday,2
+September Equinox,2020-09-22,2020-09-22,False,CA,87920c34-3bfa-4879-9eab-3a5fd16b2f29,Tuesday,2,Tuesday,2
+Culmination of the Mexican War of Independence,2020-09-27,2020-09-27,False,MX,57badfe6-9cba-49f3-9153-cee7f1693c83,Sunday,7,Sunday,7
+Gold Star Mother's Day,2020-09-27,2020-09-27,False,US,76e55b3c-032e-4ee2-a29d-31cf801e9237,Sunday,7,Sunday,7
+Yom Kippur,2020-09-28,2020-09-28,False,US,c2ba3387-eef2-40d9-b490-c8e3bde0614e,Monday,1,Monday,1
+Morelos' birthday,2020-09-30,2020-09-30,False,MX,be660667-2efd-47da-ad56-5a614c93b18e,Wednesday,3,Wednesday,3
+Feast of Saint Francis Assisi,2020-10-04,2020-10-04,False,US,635341ae-9d81-4e09-a5b4-8fd63d9dc43a,Sunday,7,Sunday,7
+Child Health Day,2020-10-05,2020-10-05,False,US,bf65c24d-39f5-4ecd-82df-976e606d974e,Monday,1,Monday,1
+German-American Day,2020-10-06,2020-10-06,False,US,78bb80ee-bae0-4348-a250-f72371749a30,Tuesday,2,Tuesday,2
+Leif Erikson Day,2020-10-09,2020-10-09,False,US,e2ecedb8-f98a-4003-a7c0-07458582ed13,Friday,5,Friday,5
+Day of the Races,2020-10-12,2020-10-12,False,MX,76455fb2-e78a-428f-b78c-4f9a9e32a5d4,Monday,1,Monday,1
+Columbus Day,2020-10-12,2020-10-12,True,US,dbb9cc22-e9d4-4a2b-9fec-4202e22d2a8d,Monday,1,Monday,1
+Navy Birthday,2020-10-13,2020-10-13,False,US,32b1d032-32a7-4567-9874-b2aa31c31855,Tuesday,2,Tuesday,2
+White Cane Safety Day,2020-10-15,2020-10-15,False,US,f000618f-d796-4794-bd41-49e8907a691d,Thursday,4,Thursday,4
+Boss's Day,2020-10-16,2020-10-16,False,US,2287d1e5-745d-4355-8199-168c60b2914b,Friday,5,Friday,5
+Halloween,2020-10-31,2020-10-31,False,US,39e66b87-ff47-4222-8c00-735b2416be52,Saturday,6,Saturday,6
+Halloween,2020-10-31,2020-10-31,False,CA,37ca0779-cc77-49be-b264-6421dcc2fa91,Saturday,6,Saturday,6
+All Saints' Day,2020-11-01,2020-11-01,False,MX,ab0a8b33-f52b-4988-aa8a-f67b5e1577d4,Sunday,7,Sunday,7
+All Saints' Day,2020-11-01,2020-11-01,False,US,cdd89aeb-66f2-4a5b-8846-2f07af08aec4,Sunday,7,Sunday,7
+End of Daylight Saving Time,2020-11-01,2020-11-01,False,US,1f5795b3-a88a-4040-b46e-49e8b2d59195,Sunday,7,Sunday,7
+New York City Marathon,2020-11-01,2020-11-01,False,US,dc1ceec1-bebd-483a-b283-c81b0b8138ef,Sunday,7,Sunday,7
+All Souls' Day,2020-11-02,2020-11-02,False,MX,661dc864-18ee-4443-ba21-c864896e242e,Monday,1,Monday,1
+All Souls' Day,2020-11-02,2020-11-02,False,US,118d697a-1805-4b37-ac84-38780c25f2c5,Monday,1,Monday,1
+Election Day,2020-11-03,2020-11-03,False,US,a3715bff-7f6a-490c-a73b-6d326906c7a2,Tuesday,2,Tuesday,2
+Presidential Election,2020-11-03,2020-11-03,False,US,365ed998-6ca8-4e69-9232-612749a95bd7,Tuesday,2,Tuesday,2
+Marine Corps Birthday,2020-11-10,2020-11-10,False,US,f423c9c2-da8d-467e-8868-9f04384693f9,Tuesday,2,Tuesday,2
+Veterans Day,2020-11-11,2020-11-11,True,US,3e239a53-e436-458e-9452-f93d9470c17e,Wednesday,3,Wednesday,3
+Revolution Day,2020-11-16,2020-11-16,True,MX,75fd441c-f41e-47c2-85e5-9d3a8e978420,Monday,1,Monday,1
+Mexican Navy Day,2020-11-23,2020-11-23,False,MX,122a1a95-fa28-4061-9f76-35207f356bba,Monday,1,Monday,1
+Thanksgiving Day,2020-11-26,2020-11-26,True,US,1bc492ba-366f-4318-96af-7c2372779cd5,Thursday,4,Thursday,4
+Black Friday,2020-11-27,2020-11-27,False,US,b1a8f44e-7f20-45dd-a5c0-bdd2938b2039,Friday,5,Friday,5
+First Sunday of Advent,2020-11-29,2020-11-29,False,US,6a95713e-cda2-41ed-a755-1484d71504fd,Sunday,7,Sunday,7
+Cyber Monday,2020-11-30,2020-11-30,False,US,0d48075a-4bd2-4a63-873f-b27ff1aa2289,Monday,1,Monday,1
+Saint Nicholas' Day,2020-12-06,2020-12-06,False,US,d155ce89-2620-4bf6-a892-07d84cfc7a5e,Sunday,7,Sunday,7
+National Day of Remembrance and Action on Violence Against Women,2020-12-06,2020-12-06,False,CA,97d8186e-6b5d-4f7f-a1b1-d16e0ae2f442,Sunday,7,Sunday,7
+Pearl Harbor Remembrance Day,2020-12-07,2020-12-07,False,US,1b344728-718f-460a-b6a7-a958c7f91319,Monday,1,Monday,1
+Feast of the Immaculate Conception,2020-12-08,2020-12-08,False,US,aa3aeaec-a9ee-4396-839b-b192b997317a,Tuesday,2,Tuesday,2
+Hanukkah,2020-12-11,2020-12-11,False,US,e6077458-4c05-4079-a2e9-e99f6074c279,Friday,5,Friday,5
+Day of the Virgin of Guadalupe,2020-12-12,2020-12-12,False,MX,14cb04d1-c2e8-4ad1-b979-8332454ae98d,Saturday,6,Saturday,6
+Feast of Our Lady Guadalupe,2020-12-12,2020-12-12,False,US,74fafd07-4ae3-4b8f-8b4c-475a2e019916,Saturday,6,Saturday,6
+Second Day of Hanukkah,2020-12-12,2020-12-12,False,US,d211e8f8-1813-4971-8115-03006d4be694,Saturday,6,Saturday,6
+National Guard Birthday,2020-12-13,2020-12-13,False,US,fa688813-22ea-410d-a9c5-6c72bfb20e54,Sunday,7,Sunday,7
+Third Day of Hanukkah,2020-12-13,2020-12-13,False,US,edd8d44d-8aa8-45fa-b335-bd20ca3b9b9a,Sunday,7,Sunday,7
+Fourth Day of Hanukkah,2020-12-14,2020-12-14,False,US,ccdd95c2-b346-4ebc-a65a-b0bd644f6d9b,Monday,1,Monday,1
+Bill of Rights Day,2020-12-15,2020-12-15,False,US,6297f398-949e-4b60-a8cc-17cb4413421d,Tuesday,2,Tuesday,2
+Fifth Day of Hanukkah,2020-12-15,2020-12-15,False,US,7f82dee2-77b6-4561-bc9e-a4ffb4ffed2f,Tuesday,2,Tuesday,2
+Las Posadas,2020-12-16,2020-12-16,False,MX,43a513b7-f861-40fa-a6c2-78fc0412967c,Wednesday,3,Wednesday,3
+Sixth Day of Hanukkah,2020-12-16,2020-12-16,False,US,ffe9695d-3246-4b88-9556-c50ad4c39be9,Wednesday,3,Wednesday,3
+Second Day of Las Posadas,2020-12-17,2020-12-17,False,MX,81b01a71-a878-4ce8-8b8f-4aa07eb8a1d6,Thursday,4,Thursday,4
+Pan American Aviation Day,2020-12-17,2020-12-17,False,US,4cb6f072-4df7-4f9d-bb77-6dc7e07a9a4b,Thursday,4,Thursday,4
+Seventh Day of Hanukkah,2020-12-17,2020-12-17,False,US,fbd53380-b8a8-449f-ad44-b0b1f723e2d2,Thursday,4,Thursday,4
+Wright Brothers Day,2020-12-17,2020-12-17,False,US,07cb77a3-fc9b-4f7a-b986-8a260fb7dcd6,Thursday,4,Thursday,4
+Third Day of Las Posadas,2020-12-18,2020-12-18,False,MX,b5562b4e-3da0-4235-8a9e-15cfcabc4b61,Friday,5,Friday,5
+Eighth Day of Hanukkah,2020-12-18,2020-12-18,False,US,640e4c4d-46e6-4c83-b78a-74abec30dbeb,Friday,5,Friday,5
+Fourth Day of Las Posadas,2020-12-19,2020-12-19,False,MX,64c841c4-76b0-4b31-ac11-a6a4188030ca,Saturday,6,Saturday,6
+Fifth Day of Las Posadas,2020-12-20,2020-12-20,False,MX,79d3f1e9-d8a0-433b-9891-df75392eed36,Sunday,7,Sunday,7
+December Solstice,2020-12-21,2020-12-21,False,MX,d33fdab1-101f-4b7e-9f24-a018266a2560,Monday,1,Monday,1
+Sixth Day of Las Posadas,2020-12-21,2020-12-21,False,MX,3e1b205d-f550-497c-a811-6f4b0abb0b84,Monday,1,Monday,1
+December Solstice,2020-12-21,2020-12-21,False,US,99717910-e9b3-418f-a096-9f462cebf52b,Monday,1,Monday,1
+December Solstice,2020-12-21,2020-12-21,False,CA,e8284472-99d0-4e92-83b5-d7b198c974be,Monday,1,Monday,1
+Seventh Day of Las Posadas,2020-12-22,2020-12-22,False,MX,75f714c9-43da-4f2b-aefd-1f1665c0e32a,Tuesday,2,Tuesday,2
+Eighth Day of Las Posadas,2020-12-23,2020-12-23,False,MX,47d96db2-3294-44d5-9569-5d76932cec7e,Wednesday,3,Wednesday,3
+Christmas Eve,2020-12-24,2020-12-24,False,MX,ee97da32-9b7a-438e-bb57-0e4b9b825b46,Thursday,4,Thursday,4
+Ninth Day of Las Posadas,2020-12-24,2020-12-24,False,MX,27d55e71-a436-4f95-a7fc-67f7788f393a,Thursday,4,Thursday,4
+Christmas Eve,2020-12-24,2020-12-24,False,US,241fb431-3f82-4d55-a93d-973f3004b174,Thursday,4,Thursday,4
+Christmas Eve,2020-12-24,2020-12-24,False,CA,d89aca77-b6b8-43d4-adee-6ec607f23c88,Thursday,4,Thursday,4
+Christmas Day,2020-12-25,2020-12-25,True,MX,c6baee3d-75b3-4a53-97b4-5610daa39e01,Friday,5,Friday,5
+Christmas Day,2020-12-25,2020-12-25,True,US,57787cbd-300c-48e4-a456-165c8bdc97b0,Friday,5,Friday,5
+Christmas Day,2020-12-25,2020-12-25,True,CA,647968bc-9bd4-45fe-a255-35f485d8bcb7,Friday,5,Friday,5
+Kwanzaa,2020-12-26,2020-12-26,False,US,a55d4594-ccb6-4eeb-b768-5b0993e79763,Saturday,6,Saturday,6
+Second Day of Kwanzaa,2020-12-27,2020-12-27,False,US,8fea8545-3e43-4312-86e0-d9cf40ed28ac,Sunday,7,Sunday,7
+Day of the Innocents,2020-12-28,2020-12-28,False,MX,fd8c5045-0bd8-448a-920b-c4c89afef4bb,Monday,1,Monday,1
+Third Day of Kwanzaa,2020-12-28,2020-12-28,False,US,121999c4-4966-4895-9f54-445ff432bb8b,Monday,1,Monday,1
+Fourth Day of Kwanzaa,2020-12-29,2020-12-29,False,US,40f2731d-ecee-4989-98b7-03cfb47b284a,Tuesday,2,Tuesday,2
+Fifth Day of Kwanzaa,2020-12-30,2020-12-30,False,US,07a0dad3-0a86-43f3-b0cf-43b74ce9f0fa,Wednesday,3,Wednesday,3
+New Year's Eve,2020-12-31,2020-12-31,False,MX,1ba26b9d-c95d-44b4-8a2c-3be991d97da7,Thursday,4,Thursday,4
+New Year's Eve,2020-12-31,2020-12-31,False,US,6a153f07-0520-45be-83cd-ed6b6d743df0,Thursday,4,Thursday,4
+Sixth Day of Kwanzaa,2020-12-31,2020-12-31,False,US,c4e2ba85-1e50-4294-9472-164e55d4ceca,Thursday,4,Thursday,4
+New Year's Eve,2020-12-31,2020-12-31,False,CA,ef8c59a2-70e3-4f78-9b5e-77e78b5408f0,Thursday,4,Thursday,4
